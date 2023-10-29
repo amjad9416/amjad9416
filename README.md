@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amjad9416
+- 👋 Hi, I’m @AmjadMohammad
 - 👀 I’m interested in Java and android
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on  Java Spring Boot 
+- 🌱 I’m currently learning Spring Boot and React
+- 💞️ I’m looking to collaborate on Springboot and React
 - 📫 Reach me at amjadmohammad9416@gmail.com
 
 <!---
