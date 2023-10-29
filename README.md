@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amjad Mohammad</h1>
-- 🌱 I’m currently learning **Spring Boot ,React**
 
-- 💬 Ask me about **Java,Andoir,Spring Boot**
+- 🌱 I’m currently learning Spring Boot ,React
+
+- 💬 Ask me about **Java ,Android , Spring Boot**
 
 - 📫 How to reach me **amjadmohammad9416@gmail.com**
 
